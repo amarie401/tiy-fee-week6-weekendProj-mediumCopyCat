@@ -13,4 +13,4 @@ NPM Package Files and Gulp
 
 Website Clone
 
-Partners: Nicholas Bryant(Front-End), Amineta Lo (Front-End), Adam Reed (Back-End).
+Partners: Nicholas Bryant (Front-End), Amineta Lo (Front-End), Adam Reed (Back-End).
