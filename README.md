@@ -1,5 +1,5 @@
 # tiy-fee-week6-weekendProj-mediumCopyCat
-https://n-bryant.github.io/tiy-fee-week6-weekendProj-mediumCopyCat/
+https://n-bryant.github.io/mediumCopyCat/
 
 This assignment will provide the opportunity to demonstrate and strengthen the understanding of JavaScript, notably:
 
