@@ -1,7 +1,9 @@
 # tiy-fee-week6-weekendProj-mediumCopyCat
-https://n-bryant.github.io/mediumCopyCat/
+Github Pages: https://n-bryant.github.io/mediumCopyCat/
 
-This assignment objective was to choose a website and make a clone/mockup of that particular site. It will provide the opportunity to demonstrate and strengthen the understanding of JavaScript, notably:
+mediumCopyCat is a mockup/copy of medium.com's landing page built with News API, handlebarsjs, and ruby backend . The objective was to demonstrate and stregthen the understanding of JavaScript, notabily: 
+
+- Basic CRUD Behavior, 
 
 - Objects and Arrays
 
